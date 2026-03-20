@@ -79,7 +79,47 @@ Controla o fluxo do programa:
 
 ---
 
+python jogo.py
+
+---
+
+
 ## ⚙️ Como executar
 
 1. Certifique-se de ter o Python instalado (3.x)
 2. Salve o código em um arquivo, por exemplo:
+
+---
+
+## 🧮 Sistema de Pontuação
+
+A pontuação é calculada com base nas tentativas restantes:
+
+---
+
+Quanto mais rápido acertar, mais pontos você ganha!
+
+---
+
+## 💡 Conceitos aplicados
+
+- **Abstração:** Classe `GameBase`
+- **Encapsulamento:** atributos privados em `Player`
+- **Herança:** `GuessGame` herda de `GameBase`
+- **Polimorfismo:** função `rodar_partida()`
+- **Funções lambda:** ordenação do ranking
+
+---
+
+## 🚀 Possíveis melhorias
+
+- Interface gráfica (Tkinter ou PyQt)
+- Salvar ranking em arquivo (JSON ou banco de dados)
+- Multiplayer online
+- Sistema de níveis progressivos
+
+---
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido para fins de estudo em **Ciência da Computação**.
