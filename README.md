@@ -70,7 +70,9 @@ Digite sua escolha: 3
 
 Tentativa 1/5: 50
 Tente um número maior.
-...
 
+
+---
 
 Projeto desenvolvido para fins de estudom.
+
