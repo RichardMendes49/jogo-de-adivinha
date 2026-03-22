@@ -72,6 +72,5 @@ Tentativa 1/5: 50
 Tente um número maior.
 ...
 
-## 👨‍💻 Autor
 
-Projeto desenvolvido para fins de estudo em **Ciência da Computação**.
+Projeto desenvolvido para fins de estudom.
