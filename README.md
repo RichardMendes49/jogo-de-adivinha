@@ -49,9 +49,9 @@ Abaixo está um exemplo de execução do jogo no terminal:
 
 ```bash
 === JOGO DE ADIVINHAÇÃO ===
-##
+
 Qual seu nome? Richard
-##
+
 Escolha o nível de dificuldade:
 1 - Fácil (15 tentativas)
 2 - Médio (10 tentativas)
