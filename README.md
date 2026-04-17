@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d0dGVxd3FsNzQzOWM1cXQ0ajM2c3g3NWwxeDd4bmRmYjczcGE4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="400">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvcGdlbDNiN2hqMWxoeWdnNWF2eXE4amZuc2pxYTRrdWxzaW4zaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHYNyjAqrqkzm/giphy.gif" width="300">
 </p>
 
 
@@ -99,4 +99,9 @@ Obrigado por jogar. Até a próxima!
 ---
 
 Projeto desenvolvido para fins de estudos.
+
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d0dGVxd3FsNzQzOWM1cXQ0ajM2c3g3NWwxeDd4bmRmYjczcGE4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="400">
+</p>
 
