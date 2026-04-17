@@ -1,4 +1,15 @@
-# 🎮 Jogo de Adivinhação em Python
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d0dGVxd3FsNzQzOWM1cXQ0ajM2c3g3NWwxeDd4bmRmYjczcGE4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="400">
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue">
+  <img src="https://img.shields.io/badge/status-concluído-green">
+  <img src="https://img.shields.io/badge/POO-aplicado-orange">
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=Jogo+de+Adivinha%C3%A7%C3%A3o+em+Python)](https://git.io/typing-svg)
 
 Este projeto é um **jogo de adivinhação de números** desenvolvido em Python, com foco na aplicação de conceitos de **Programação Orientada a Objetos (POO)** como:
 
@@ -9,18 +20,18 @@ Este projeto é um **jogo de adivinhação de números** desenvolvido em Python,
 
 ---
 
-## 📌 Como funciona
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=%F0%9F%93%8C+Como+funciona)](https://git.io/typing-svg)
 
 O jogo escolhe um número aleatório entre **1 e 100**, e o jogador deve tentar adivinhar dentro de um número limitado de tentativas, dependendo da dificuldade escolhida.
 
-### 🎯 Níveis de dificuldade:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=%F0%9F%8E%AF+N%C3%ADveis+de+dificuldade%3A)](https://git.io/typing-svg)
 - **Fácil** → 15 tentativas  
 - **Médio** → 10 tentativas  
 - **Difícil** → 5 tentativas  
 
 ---
 
-## 🧠 Funcionalidades
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=%F0%9F%A7%A0+Funcionalidades)](https://git.io/typing-svg)
 
 - Sistema de jogador com nome e pontuação  
 - Sistema de ranking (placar geral)  
@@ -33,7 +44,7 @@ O jogo escolhe um número aleatório entre **1 e 100**, e o jogador deve tentar 
 
 ---
 
-## 🧮 Sistema de Pontuação
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=%F0%9F%A7%AE+Sistema+de+Pontua%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 A pontuação é calculada com base nas tentativas restantes:
 
@@ -43,7 +54,7 @@ Quanto mais rápido acertar, mais pontos você ganha!
 
 ---
 
-## 📋 Exemplo de Uso
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=%F0%9F%93%8B+Exemplo+de+Uso)](https://git.io/typing-svg)
 
 Abaixo está um exemplo de execução do jogo no terminal:
 
