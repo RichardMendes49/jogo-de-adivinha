@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvcGdlbDNiN2hqMWxoeWdnNWF2eXE4amZuc2pxYTRrdWxzaW4zaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHYNyjAqrqkzm/giphy.gif" width="300">
-</p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue">
