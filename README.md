@@ -1,9 +1,5 @@
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue">
-  <img src="https://img.shields.io/badge/status-concluído-green">
-  <img src="https://img.shields.io/badge/POO-aplicado-orange">
-</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=Jogo+de+Adivinha%C3%A7%C3%A3o+em+Python)](https://git.io/typing-svg)
 
