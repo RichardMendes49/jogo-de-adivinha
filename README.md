@@ -19,6 +19,7 @@ O jogo escolhe um número aleatório entre **1 e 100**, e o jogador deve tentar 
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=F7F7F7&width=600&lines=%F0%9F%8E%AF+N%C3%ADveis+de+dificuldade%3A" />
 </p>
+
 - **Fácil** → 15 tentativas  
 - **Médio** → 10 tentativas  
 - **Difícil** → 5 tentativas  
