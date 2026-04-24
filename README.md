@@ -5,10 +5,54 @@
 
 Este projeto é um **jogo de adivinhação de números** desenvolvido em Python, com foco na aplicação de conceitos de **Programação Orientada a Objetos (POO)** como:
 
-- Abstração  
-- Encapsulamento  
-- Herança  
-- Polimorfismo  
+###  Abstração
+Define um modelo base que obriga outras classes a implementarem determinados métodos.
+
+```python
+from abc import ABC, abstractmethod
+
+class GameBase(ABC):
+    @abstractmethod
+    def iniciar(self):
+        pass
+
+    @abstractmethod
+    def jogar(self):
+        pass
+```
+
+---
+
+###  Encapsulamento
+Protege os dados internos da classe, permitindo acesso controlado.
+
+```python
+class Player:
+    def __init__(self, nome):
+        self.__nome = nome
+        self.__pontos = 0
+```
+
+---
+
+###  Herança
+Permite que uma classe herde comportamentos de outra.
+
+```python
+class GuessGame(GameBase):
+    pass
+```
+
+---
+
+###  Polimorfismo
+Permite usar diferentes objetos através da mesma interface.
+
+```python
+def rodar_partida(jogo: GameBase):
+    jogo.iniciar()
+    jogo.jogar()
+```
 
 ---
 
@@ -60,6 +104,8 @@ Abaixo está um exemplo de execução do jogo no terminal:
 ---
 
 Projeto desenvolvido para fins de estudos.
+
+
 
 
 <p align="center">
