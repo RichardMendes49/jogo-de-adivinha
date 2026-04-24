@@ -1,4 +1,4 @@
-<p align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=Jogo+de+Adivinha%C3%A7%C3%A3o+em+Python">
 </p>
 
